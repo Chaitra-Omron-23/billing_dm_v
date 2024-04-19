@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "billing_dm_v"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f2ecdba0-b62b-4ab9-a063-bde74850ff87"
+  }
+}

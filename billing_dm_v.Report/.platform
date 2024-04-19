@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "billing_dm_v"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dd631f8f-4a38-447a-8351-bb27c94ed105"
+  }
+}
